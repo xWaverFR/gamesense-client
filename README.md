@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-![logo](https://github.com/xWaverFR/gamesense-client/blob/master/src/main/resources/assets/gamesense/5522238.png?raw=true)
+![logo](https://github.com/xWaverFR/gamesense-client/blob/master/src/main/resources/assets/gamesense/5522238%20(1).jpg?raw=true)
 
 
 <!-- PROJECT SHIELDS -->
