@@ -14,6 +14,9 @@
 ***Fork Of Gamesense, may the client live on!***
 
 > RIP 05-15-2021
+> WAVESENSE 7-26-2021
+
+***Below is the original readme***
 
 
 <details open>
